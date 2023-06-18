@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/writethewrong/static/css/main.f5123925.css",
-    "main.js": "/writethewrong/static/js/main.0ebf8055.js",
+    "main.js": "/writethewrong/static/js/main.bec4bffc.js",
     "static/js/787.a86f3764.chunk.js": "/writethewrong/static/js/787.a86f3764.chunk.js",
     "index.html": "/writethewrong/index.html",
     "main.f5123925.css.map": "/writethewrong/static/css/main.f5123925.css.map",
-    "main.0ebf8055.js.map": "/writethewrong/static/js/main.0ebf8055.js.map",
+    "main.bec4bffc.js.map": "/writethewrong/static/js/main.bec4bffc.js.map",
     "787.a86f3764.chunk.js.map": "/writethewrong/static/js/787.a86f3764.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5123925.css",
-    "static/js/main.0ebf8055.js"
+    "static/js/main.bec4bffc.js"
   ]
 }
